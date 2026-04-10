@@ -274,3 +274,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Gopal Bagaswar](https://github.com/GopalGB) has waived all copyright and related or neighboring rights to this work.
+
+
+| [AgentScope](https://github.com/agentscope-ai/agentscope) | ![Stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=flat-square&label=) | Production-ready agent framework with ReAct agents, MCP support, voice agents, and multi-model routing. Supports Anthropic, OpenAI, DashScope, Gemini, Ollama |
