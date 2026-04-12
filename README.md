@@ -126,6 +126,7 @@ IDEs, coding assistants, and development tools for building with AI agents.
 | [Continue](https://github.com/continuedev/continue) | ![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square&label=) | Open-source AI code assistant for VS Code and JetBrains |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | ![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square&label=) | Platform for AI-powered software development agents (formerly OpenDevin) |
 | [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | ![Stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=flat-square&label=) | Agent that autonomously fixes GitHub issues using LLMs |
+| [toprank](https://github.com/nowork-studio/toprank) | -- | Claude Code plugin for SEO and Google Ads workflows with 9 built-in skills for audits, schema, bids, and CMS publishing |
 | [v0](https://v0.dev/) | -- | Vercel's generative UI tool that creates React components from prompts |
 | [bolt.new](https://bolt.new/) | -- | StackBlitz's AI-powered full-stack web development agent in the browser |
 | [Devika](https://github.com/stitionai/devika) | ![Stars](https://img.shields.io/github/stars/stitionai/devika?style=flat-square&label=) | Agentic AI software engineer that understands instructions and writes code |
