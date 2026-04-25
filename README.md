@@ -157,6 +157,9 @@ Standalone open-source agent projects for various use cases.
 | [AgentScope](https://github.com/modelscope/agentscope) | ![Stars](https://img.shields.io/github/stars/modelscope/agentscope?style=flat-square&label=) | Multi-agent platform with distributed support from Alibaba |
 | [Composio](https://github.com/ComposioHQ/composio) | ![Stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=flat-square&label=) | Integration platform for AI agents with 250+ tools (GitHub, Slack, Jira, etc.) |
 | [Browser Use](https://github.com/browser-use/browser-use) | ![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square&label=) | Make AI agents interact with websites through natural browser automation |
+| [OASIS](https://github.com/camel-ai/oasis) | ![Stars](https://img.shields.io/github/stars/camel-ai/oasis?style=flat-square&label=) | Open agent social interaction simulator — model up to 1M agents with sentiment evolution and counter-narrative dynamics |
+| [agent-outbound](https://github.com/sodiray/agent-outbound) | ![Stars](https://img.shields.io/github/stars/sodiray/agent-outbound?style=flat-square&label=) | LLM-powered cold email outreach agent with deliverability monitoring and reply classification |
+| [Postiz](https://github.com/gitroomhq/postiz-app) | ![Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square&label=) | Open-source social media scheduling agent with AI content generation for LinkedIn, X, and other platforms |
 
 ## RAG & Knowledge
 
