@@ -48,6 +48,8 @@ Frameworks for building, composing, and deploying AI agents.
 | [Atomic Agents](https://github.com/BrainBlend-AI/atomic-agents) | ![Stars](https://img.shields.io/github/stars/BrainBlend-AI/atomic-agents?style=flat-square&label=) | Modular, composable framework for building AI agents with atomic components |
 | [Llama Agents](https://github.com/run-llama/llama-agents) | ![Stars](https://img.shields.io/github/stars/run-llama/llama-agents?style=flat-square&label=) | Async framework for building multi-agent systems from LlamaIndex |
 | [ControlFlow](https://github.com/PrefectHQ/ControlFlow) | ![Stars](https://img.shields.io/github/stars/PrefectHQ/ControlFlow?style=flat-square&label=) | Agentic AI framework by Prefect for building structured, observable workflows |
+| [Mastra](https://github.com/mastra-ai/mastra) | ![Stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=flat-square&label=) | TypeScript agent framework with tools, RAG, evals, and workflow primitives for production agents |
+| [MotleyCrew](https://github.com/ShoggothAI/motleycrew) | ![Stars](https://img.shields.io/github/stars/ShoggothAI/motleycrew?style=flat-square&label=) | Lightweight, fully-async framework for multi-agent systems with LangChain/LlamaIndex/CrewAI interop |
 
 ## Multi-Agent Systems
 
@@ -74,6 +76,8 @@ Systems for giving agents persistent memory and managing conversational state.
 | [Letta (MemGPT)](https://github.com/letta-ai/letta) | ![Stars](https://img.shields.io/github/stars/letta-ai/letta?style=flat-square&label=) | Framework for creating LLM agents with long-term memory and self-editing capabilities |
 | [Chromadb](https://github.com/chroma-core/chroma) | ![Stars](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square&label=) | AI-native open-source embedding database for agent memory and retrieval |
 | [Milvus](https://github.com/milvus-io/milvus) | ![Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=flat-square&label=) | Cloud-native vector database for scalable similarity search and AI applications |
+| [Graphiti](https://github.com/getzep/graphiti) | ![Stars](https://img.shields.io/github/stars/getzep/graphiti?style=flat-square&label=) | Real-time temporal knowledge graphs for agents — bi-temporal data model with hybrid retrieval |
+| [Cognee](https://github.com/topoteretes/cognee) | ![Stars](https://img.shields.io/github/stars/topoteretes/cognee?style=flat-square&label=) | Memory engine for AI agents with semantic graphs and modular tasks/pipelines |
 
 ## Orchestration & Workflow
 
@@ -129,6 +133,9 @@ IDEs, coding assistants, and development tools for building with AI agents.
 | [v0](https://v0.dev/) | -- | Vercel's generative UI tool that creates React components from prompts |
 | [bolt.new](https://bolt.new/) | -- | StackBlitz's AI-powered full-stack web development agent in the browser |
 | [Devika](https://github.com/stitionai/devika) | ![Stars](https://img.shields.io/github/stars/stitionai/devika?style=flat-square&label=) | Agentic AI software engineer that understands instructions and writes code |
+| [Firecrawl](https://github.com/mendableai/firecrawl) | ![Stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=flat-square&label=) | API and SDK to crawl websites and turn them into clean LLM-ready markdown for agent ingestion |
+| [Crawl4AI](https://github.com/unclecode/crawl4ai) | ![Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat-square&label=) | Open-source LLM-friendly web crawler with built-in markdown conversion and JS rendering |
+| [Vercel AI SDK](https://github.com/vercel/ai) | ![Stars](https://img.shields.io/github/stars/vercel/ai?style=flat-square&label=) | TypeScript SDK for building AI-powered apps with streaming UI, tool calling, and provider abstraction |
 
 ## Code Agents
 
@@ -160,6 +167,10 @@ Standalone open-source agent projects for various use cases.
 | [OASIS](https://github.com/camel-ai/oasis) | ![Stars](https://img.shields.io/github/stars/camel-ai/oasis?style=flat-square&label=) | Open agent social interaction simulator — model up to 1M agents with sentiment evolution and counter-narrative dynamics |
 | [agent-outbound](https://github.com/sodiray/agent-outbound) | ![Stars](https://img.shields.io/github/stars/sodiray/agent-outbound?style=flat-square&label=) | LLM-powered cold email outreach agent with deliverability monitoring and reply classification |
 | [Postiz](https://github.com/gitroomhq/postiz-app) | ![Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=flat-square&label=) | Open-source social media scheduling agent with AI content generation for LinkedIn, X, and other platforms |
+| [Stagehand](https://github.com/browserbase/stagehand) | ![Stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square&label=) | AI-powered browser automation framework from Browserbase combining Playwright + LLMs |
+| [Skyvern](https://github.com/Skyvern-AI/skyvern) | ![Stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat-square&label=) | Browser automation agent that uses LLMs and computer vision to complete workflows on any website |
+| [Goose](https://github.com/block/goose) | ![Stars](https://img.shields.io/github/stars/block/goose?style=flat-square&label=) | Block's open-source on-machine AI agent that automates engineering tasks via MCP |
+| [CopilotKit](https://github.com/CopilotKit/CopilotKit) | ![Stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=flat-square&label=) | React UI framework for building in-app AI copilots, chatbots, and agents |
 
 ## RAG & Knowledge
 
@@ -196,6 +207,9 @@ Frameworks for evaluating and testing AI agent performance.
 | [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | ![Stars](https://img.shields.io/github/stars/princeton-nlp/SWE-bench?style=flat-square&label=) | Benchmark for evaluating LLMs on real-world software engineering problems |
 | [DeepEval](https://github.com/confident-ai/deepeval) | ![Stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=flat-square&label=) | Open-source evaluation framework for LLMs and AI agents |
 | [Ragas](https://github.com/explodinggradients/ragas) | ![Stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=flat-square&label=) | Evaluation framework for RAG pipelines with metrics for faithfulness and relevancy |
+| [Promptfoo](https://github.com/promptfoo/promptfoo) | ![Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=) | Test suite for LLM apps — regression-test prompts, models, and RAG with assertions and red-teaming |
+| [TruLens](https://github.com/truera/trulens) | ![Stars](https://img.shields.io/github/stars/truera/trulens?style=flat-square&label=) | Evaluation and tracking for LLM apps with feedback functions for groundedness, relevance, and safety |
+| [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) | ![Stars](https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=flat-square&label=) | UK AI Safety Institute's framework for large-scale LLM evaluations and capability benchmarking |
 
 ## Voice & Multimodal Agents
 
