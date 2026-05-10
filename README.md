@@ -136,6 +136,7 @@ IDEs, coding assistants, and development tools for building with AI agents.
 | [Firecrawl](https://github.com/mendableai/firecrawl) | ![Stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=flat-square&label=) | API and SDK to crawl websites and turn them into clean LLM-ready markdown for agent ingestion |
 | [Crawl4AI](https://github.com/unclecode/crawl4ai) | ![Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat-square&label=) | Open-source LLM-friendly web crawler with built-in markdown conversion and JS rendering |
 | [Vercel AI SDK](https://github.com/vercel/ai) | ![Stars](https://img.shields.io/github/stars/vercel/ai?style=flat-square&label=) | TypeScript SDK for building AI-powered apps with streaming UI, tool calling, and provider abstraction |
+| [NotFair](https://notfair.co) | Google Ads MCP server for AI agents. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 
 ## Code Agents
 
